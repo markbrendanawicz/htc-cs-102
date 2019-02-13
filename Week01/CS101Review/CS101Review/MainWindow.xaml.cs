@@ -86,7 +86,7 @@ namespace CS101Review
             string[] messages = new string[3]; // define the array
 
             messages[0] = "You are cool"; // add elements to the array
-            messages[1] = "Happy birthday";
+            messages[1] = "Happy birthday?";
             messages[2] = "I hope you have a good day";
 
             for (int i = 0; i < messages.Length; i++) // loop through the array
